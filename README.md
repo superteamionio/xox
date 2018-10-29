@@ -148,3 +148,8 @@ void board()
 
 	cout << "     |     |     " << endl << endl;
 }
+
+P2017130
+Smyrliadi Antonia
+
+
